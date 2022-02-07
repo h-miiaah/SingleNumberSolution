@@ -15,6 +15,7 @@
   /*
 
   - Initialize a result variable to 0.
+  - Loop through the array and XOR (exclusive or) of every number with the result variable.
   
 
   */
