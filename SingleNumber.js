@@ -14,6 +14,7 @@
 
   /*
 
+  - Initialize a result variable to 0.
   
 
   */
