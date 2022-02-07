@@ -18,6 +18,7 @@
   - Loop through the array and XOR (exclusive or) of every number with the result variable.
   - At the end, the result variable contains the XOR (exclusive or) of all the numbers in the array.
   - The number that appears only once will have its bits set in the result variable.
-  
+  - Finally return the result variable.  
 
   */
+ 
