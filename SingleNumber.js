@@ -16,6 +16,7 @@
 
   - Initialize a result variable to 0.
   - Loop through the array and XOR (exclusive or) of every number with the result variable.
+  - At the end, the result variable contains the XOR (exclusive or) of all the numbers in the array.
   
 
   */
